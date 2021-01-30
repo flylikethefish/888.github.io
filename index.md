@@ -2,17 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This is a show for **Dr ZHAO**. He is a great man. His wife, _Lijun ZHANG_, is also a great woman.
 
-[Link to another page](./another-page.html).
+[academic pages](https://www.researchgate.net/profile/Tuan_Zhao).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Rapid and Effective Synthesis of α‑Acyloxy-α-alkynyltrimethylsilanes
+
+α-Alkynyl-α′-trimethylsilylhydrazones are readily oxidized into diazo compounds under simple experimental conditions. These stable diazo species can in turn react with a range of carboxylic acids via a protonation−nucleophilic substitution sequence, leading to valuable α-acyloxy-α-alkynyltrimethylsilanes. This procedure avoids the delicate preparation and manipulation of α-hydroxypropargyltrimethylsilanes.
 
 ## Header 2
 
