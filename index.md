@@ -13,11 +13,9 @@ This is a show for **Dr ZHAO**. He is a great man. His wife, _Lijun ZHANG_, is a
 
 α-Alkynyl-α′-trimethylsilylhydrazones are readily oxidized into diazo compounds under simple experimental conditions. These stable diazo species can in turn react with a range of carboxylic acids via a protonation−nucleophilic substitution sequence, leading to valuable α-acyloxy-α-alkynyltrimethylsilanes. This procedure avoids the delicate preparation and manipulation of α-hydroxypropargyltrimethylsilanes.
 
-## Header 2
+## Expedient Synthesis of 1,4-Benzodiazepines via a Tandem Condensation/[1,5]-Hydride Transfer/Cyclization Process
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+An expedient approach to 1,4-benzodiazepines via a tandem condensation/[1,5]-hydride shift/cyclization process has been developed. This transformation started from readily available o-amino benzaldehyde and aminomalonate and was promoted by low-cost FeCl3 with high step and atom economy.
 
 ### Header 3
 
