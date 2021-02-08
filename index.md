@@ -44,7 +44,7 @@ spiropyrazolones.
 
 ### Small image
 
-![Octocat](https://upload-images.jianshu.io/upload_images/7937377-1a233f8c88d0e10f.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
+![Octocat](https://upload-images.jianshu.io/upload_images/7937377-1a233f8c88d0e10f.png)
 
 ### Large image
 
