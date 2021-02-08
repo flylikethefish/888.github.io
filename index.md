@@ -17,81 +17,34 @@ This is a show for **Dr ZHAO**. He is a great man. His wife, _Lijun ZHANG_, is a
 
 An expedient approach to 1,4-benzodiazepines via a tandem condensation/[1,5]-hydride shift/cyclization process has been developed. This transformation started from readily available o-amino benzaldehyde and aminomalonate and was promoted by low-cost FeCl3 with high step and atom economy.
 
-### Header 3
+### Zinc Chloride Catalyzed Stereoselective Construction of Spiropyrazolone Tetrahydroquinolines via Tandem [1,5]-Hydride Shift/Cyclization Sequence
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+A zninc chloride catalyzed tandem 1,5-hydride shift/cyclization
+process to form spiropyrazolone terahydroquinoline derivatives is
+developed. A series of new spiropyrazolone derivatives were
+obtained in good to high yields with good to excellent
+diastereoselectivities (up to 95% yield, >95:5 dr). Additionally, the
+spiropyrazolone derivatives could be converted into the
+corresponding novel spriopyrazolines.
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+#### A ZnCl2-Catalyzed Knoevenagel Condensation/1,5-Hydride Shift/Cyclization Sequence: Synthesis of Novel Spiroisoxazol-5-one Tetrahydroquinolines
 
-##### Header 5
+*   A concise synthesis of novel spiroisoxazol-5-one tetrahydroquinoline derivatives has been developed by an efficient
+ZnCl2-catalyzed stereoselective Knoevenagel Condensation/1,5-
+hydride shift/cyclization sequence. The reactions are broad in
+scope and the products could be obtained in good to high
+yields (up to 97% yield) with good to excellent diastereoselectivities (up to >95:5 dr). In addition, these products
+may be converted into novel 5-hydroxy-spiroisoxazolines and
+spiropyrazolones.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://upload-images.jianshu.io/upload_images/7937377-1a233f8c88d0e10f.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
 
 ### Large image
 
